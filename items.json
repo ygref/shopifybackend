@@ -1,5 +1,5 @@
 [
-{"id": 1, "name": "Item 1", "price": 10, "description": "information"},
-{"id": 2, "name": "Item 2", "price": 20, "description": "information"},
-{"id": 3, "name": "Item 3", "price": 30, "description": "information"}
+{"id": 1, "barcode": "12345", "name": "Item 1", "price": 10, "description": "information", "quantity": 1},
+{"id": 2, "barcode": "678910", "name": "Item 2", "price": 20, "description": "information", "quantity": 2}, 
+{"id": 3, "barcode": "109876", "name": "Item 3", "price": 30, "description": "information", "quantity": 3}
 ]
