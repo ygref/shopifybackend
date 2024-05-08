@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "shipmentId": "S001",
+    "date": "2024-04-15",
+    "items": [
+      {
+        "id": 1,
+        "barcode": "12345",
+        "name": "Kershaw Knife 1",
+        "price": 10,
+        "description": "information",
+        "quantity": 1
+      },
+      {
+        "id": 2,
+        "barcode": "678910",
+        "name": "Benchmade Knife 2",
+        "price": 20,
+        "description": "information",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "shipmentId": "S002",
+    "date": "2024-04-16",
+    "items": [
+      {
+        "id": 3,
+        "barcode": "109876",
+        "name": "Civivi Knife 3",
+        "price": 30,
+        "description": "information",
+        "quantity": 3
+      },
+      {
+        "id": 4,
+        "barcode": "112233",
+        "name": "Spyderco Knife 4",
+        "price": 40,
+        "description": "information",
+        "quantity": 4
+      }
+    ]
+  }
+]
